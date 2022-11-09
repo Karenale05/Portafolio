@@ -1,0 +1,17 @@
+/*Encabezado con foto */
+
+header {
+    background-image: linear-gradient(to right top, #291A41, #6E2F5A, #B04C61, #E27A5D, #FCB659, #F9F871);
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #402866;
+    font-size:60px;
+}
+
+h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #291A41;
+    font-size:35px;
+}
